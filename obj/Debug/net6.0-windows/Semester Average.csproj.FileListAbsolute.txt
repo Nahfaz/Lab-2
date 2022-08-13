@@ -1,0 +1,17 @@
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.csproj.AssemblyReference.cache
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester_Average.Form1.resources
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.csproj.GenerateResource.cache
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.AssemblyInfoInputs.cache
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.AssemblyInfo.cs
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.csproj.CoreCompileInputs.cache
+E:\Semester Average\Semester Average\bin\Debug\net6.0-windows\Semester Average.exe
+E:\Semester Average\Semester Average\bin\Debug\net6.0-windows\Semester Average.deps.json
+E:\Semester Average\Semester Average\bin\Debug\net6.0-windows\Semester Average.runtimeconfig.json
+E:\Semester Average\Semester Average\bin\Debug\net6.0-windows\Semester Average.dll
+E:\Semester Average\Semester Average\bin\Debug\net6.0-windows\Semester Average.pdb
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.dll
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\refint\Semester Average.dll
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.pdb
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\Semester Average.genruntimeconfig.cache
+E:\Semester Average\Semester Average\obj\Debug\net6.0-windows\ref\Semester Average.dll
